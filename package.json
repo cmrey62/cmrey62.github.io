@@ -1,6 +1,7 @@
 {
   "name": "cmrey62.github.io",
   "version": "0.1.0",
+  "homepage": "https://cmrey62.github.io",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
